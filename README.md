@@ -35,7 +35,7 @@
 - [Our Investment Process](#our-investment-process)
 - [Our Investment Decision Framework](#our-investment-decision-framework)
 - [How We Work](#how-we-work)
-- [Things We DONT DO](#things-we-dont-do)
+- [Things We DONT Do](#things-we-dont-do)
 - [Events](#events)
 - [Our Home](#our-home)
 - [Notation In The Wild](#notation-in-the-wild)
@@ -117,7 +117,7 @@ During a project’s infancy, there are many ways in which we can add value to a
 6. Beyond (“The Call Before the Board”) – After a Notation portfolio company has raised a subsequent institutional round of financing, we generally take a step back. This is how we scale what we do at Notation, allowing us to work closely with new founders and companies. Because we don’t take board seats, we’re closely aligned with the founders that we work with throughout the lifecycle of their company, which often allows us to be the “call before the board.” Although communication over time becomes less frequent, we take this long-term role very seriously, and are grateful to the founders who have chosen to work with us and trust us with this responsibility.
 
 
-## Things We DONT DO
+## Things We DONT Do
 
 * We don’t take board seats or make board level executive decisions, which includes hiring and firing the founders we partner with.
 * We don’t run your company, build your culture, or pretend to understand the market you’re tackling, the problem you’re solving, or your customers as well as you do.
@@ -153,14 +153,4 @@ Finally, we have an email list that we’ve never quite figured out how to use a
 ## Copyright and license
 
 Code and documentation copyright 2011-2018 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
-
-**Mark Otto**
-
-- <https://twitter.com/mdo>
-- <https://github.com/mdo>
-
-**Jacob Thornton**
-
-- <https://twitter.com/fat>
-- <https://github.com/fat>
 
