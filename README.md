@@ -1,4 +1,4 @@
-# Operating-Manual-2
+# Operating-Manual
 <p align="center">
   <a href="https://notation.vc/">
     <img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width=72 height=72>
@@ -7,20 +7,20 @@
   <h3 align="center">Notation</h3>
 
   <p align="center">
-    Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+    A first-check venture capital firm.
     <br>
-    <a href="https://getbootstrap.com/docs/4.1/"><strong>Explore Bootstrap docs »</strong></a>
+    <a href="https://notation.vc/"><strong>View More on our Site »</strong></a>
     <br>
     <br>
-    <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
+    <a href="https://notation.vc/who-we-are/">Who We Are</a>
     ·
-    <a href="https://github.com/twbs/bootstrap/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://notation.vc/companies/">Portfolio Companies</a>
     ·
-    <a href="https://themes.getbootstrap.com/">Themes</a>
+    <a href="https://notation.vc/#podcast">Origins Podcast</a>
     ·
-    <a href="https://jobs.getbootstrap.com/">Jobs</a>
+    <a href="https://medium.com/notation-capital">Writing</a>
     ·
-    <a href="https://blog.getbootstrap.com/">Blog</a>
+    <a href="https://twitter.com/NotationCapital">Twitter</a>
   </p>
 </p>
 
