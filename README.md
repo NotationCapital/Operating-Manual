@@ -1,10 +1,10 @@
 # Operating-Manual-2
 <p align="center">
-  <a href="https://getbootstrap.com/">
+  <a href="https://notation.vc/">
     <img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width=72 height=72>
   </a>
 
-  <h3 align="center">Bootstrap</h3>
+  <h3 align="center">Notation</h3>
 
   <p align="center">
     Sleek, intuitive, and powerful front-end framework for faster and easier web development.
