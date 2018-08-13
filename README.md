@@ -1,10 +1,8 @@
 # Notation Operating Manual
 <p align="center">
   <a href="https://notation.vc/">
-    <img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width=72 height=72>
+    <img src="https://notation.vc/wp-content/themes/notation-theme/assets/images/notation-logo.png" alt="" width=175 height=45>
   </a>
-
-  <h3 align="center">Notation</h3>
 
   <p align="center">
     A first-check venture capital firm.
