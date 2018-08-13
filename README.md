@@ -148,7 +148,5 @@ We also host a popular podcast called [Origins](https://notation.vc/#podcast), w
 Finally, we have an email list that we’ve never quite figured out how to use appropriately, so we suggest you follow Notation on twitter or medium for regular updates, BUT, we may do some larger events for the Notation community in the months to come, so feel free to sign up for our email list on [our homepage](https://notation.vc/) just in case :-)
 
 
-## Copyright and license
 
-Code and documentation copyright 2011-2018 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
 
