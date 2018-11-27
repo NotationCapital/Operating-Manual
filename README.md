@@ -37,7 +37,6 @@
 - [Events](#events)
 - [Our Home](#our-home)
 - [Notation In The Wild](#notation-in-the-wild)
-- [Copyright and license](#copyright-and-license)
 
 
 ## Why We Exist
