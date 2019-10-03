@@ -41,31 +41,35 @@
 
 ## Why We Exist
 
-__Our mission is to be the most helpful venture firm in the world for founders on day 0 of a new technology company__. We believe all the glory to be had is in working with founders before what they’re building becomes obviously of value, even if it means investing in products and markets that (initially) seem fringe.
+__Our mission is to be the most helpful venture firm in the world for technical founding teams on day 0 of a new startup__. We believe all the glory to be had is in working with founders before what they’re building becomes obviously of value, even if it means investing in products and markets that (initially) seem fringe.
  
-We focus on 8-10 new projects per year that tend to be tech heavy, scalable software products, and based in NYC. 
+We invest in 8-10 new projects per year that tend to be tech heavy, scalable software products, and often based in NYC. 
 
 
 ## Who We Are
 
-Notation is a community of people dedicated to helping one another succeed. This includes the founders of Notation portfolio companies, our advisors, LP’s, and our broader network. We have two full-time partners at the firm:
+Notation is a community of people dedicated to helping one another succeed. This includes the founders of Notation portfolio companies, our advisors, LP’s, and our broader network. We have four full-time members at the firm:
  
-[Alex Lines](https://twitter.com/alexlines) - Focuses on hard tech, infrastructure, and product at Notation. He's a software engineer and has been building products and companies in New York for over ten years, most recently at betaworks.
+[Alex Lines](https://twitter.com/alexlines) - Focuses on infrastructure, hard tech & product. Engineer experienced in distributed systems & scalability, building products and companies in NY for over 10 years.
  
-[Nicholas Chirls](https://twitter.com/nchirls) - Focuses on product, marketing, and capital raising at Notation. Previously, Nick was Head of Seed Investing at betaworks, and also led product for several internal betaworks projects as well as previous startups.
+[Nicholas Chirls](https://twitter.com/nchirls) - Focuses on product, growth, and capital raising. Previously Head of Seed Investing at betaworks and led product for several betaworks projects and previous startups.
+
+[Katherine Wu](https://twitter.com/katherineykwu) - Makes investments and supports Notation companies. She has a legal background with experience in business development and growth at a NYC seed-stage startup.
+
+[Thomas Bailey](https://www.linkedin.com/in/thomas-bailey-b6827234/) - Leads cryptocurrency and blockchain investing. An angel investor in blockchain projects for the previous six years, and has also built large-scale crypto-mining facilities.
 
 Through our slack channel, email lists, events, and other places where we build community, we encourage every person in our network to participate. Over the past few years, for example, this has led to a significant number of key hires, customers, and investor introductions. Notation is a diverse professional community that respects one another, but we also find ways to enjoy each other’s company, and try to have some fun along the way :-)
 
-Our core limited partners and advisors include some really [amazing people](https://notation.vc/who-we-are/), who are more than willing to spend time with and help the Notation portfolio companies. We’ve also found that the Notation founders regularly find ways to help one another without our direct involvement, which we love because it shows that the community we’re building stands on its own.
+Our core limited partners and advisors make up an [incredible group of people](https://notation.vc/who-we-are/), who are often happy to spend time with and help the Notation portfolio companies. We’ve also found that the Notation founders regularly find ways to help one another without our direct involvement, which we love because it shows that the community we’re building stands on its own.
 
 
 ## Notation In Practice
 
-We've raised two separate funds for Notation. Our first fund was an $8M proof of concept fund that we raised in 2015 to invest in 30 NYC based pre-seed stage companies. Our second fund is a $28M fund that we’re currently investing. Both funds include a combination of institutional and individual limited partners that are critical to the Notation community - [we’ve listed all of them publicly](https://notation.vc/who-we-are/), which we think is unique for a venture capital firm. __In our current iteration, our average check size is $400k and we prefer to lead or co-lead the first financing, which tends to be about $500k-$1M total.__ These numbers are on average and not one size fits all or hard rules.
+We've raised two separate funds for Notation. Our first fund was an $8M proof of concept fund that we raised in 2015 to invest in 30 NYC based pre-seed stage companies. Our second fund is a $28M fund that we’re currently investing. We've published both of our fundraising decks, which can be found [here](https://www.slideshare.net/Notation/presentations). Both funds include a combination of institutional and individual limited partners that are critical to the Notation community - [we’ve listed all of them publicly](https://notation.vc/who-we-are/), which we think is unique for a venture capital firm. __In our current iteration, our average check size is $500k and we prefer to lead or co-lead the first financing, which tends to be about $1M total.__ These numbers are on average and not one size fits all or hard rules.
  
 __What does a “first-check” investor actually mean?__ To us, it means (1) working with founders at the true beginning of a company, in many cases simply an idea or potential market that has become an obsession. We love side projects, and there’s very little we’d consider “too early” to be potentially investable. It also means (2) a disciplined approach to running an early stage experiment in order to learn whether or not it makes sense to continue onwards. This is why we prefer founding teams who choose to raise capital thoughtfully and appreciate resource constraints, rather than simply raising as much money as possible from whoever will pay the highest price.
  
-We occasionally consider companies that are further along, what most folks these days consider “institutional seed” (team built out, product in market, some early data), but this represents a smaller part of our practice (maybe 1-2 opportunistic investments per year). 
+We occasionally consider companies that are further along, what most folks these days consider “institutional seed” (team built out, product in market, some early data), but this represents a smaller part of our practice (1-2 opportunistic investments per year). 
 
 If you think that we can be helpful given the way we work (more details below), please do reach out! The best way to get in touch is either through someone in our network, or simply by sending us an email directly. We do our best to respond to every message we receive.
 
@@ -83,9 +87,9 @@ If you think that we can be helpful given the way we work (more details below), 
 
 ## Our Investment Process
 
-The goal we set for ourselves is to get to an investment decision with the founders that we meet within one month after the initial introduction. Both full-time Notation partners will meet separately with founders that we’re in process with, and then we generally do a final partner meeting with the full team when appropriate. Our diligence during this period includes market research, reference calls, and any other available information that we can dig into. We try not to “over-diligence,” understanding that the founders we meet are often extraordinary early in the company building process, and in many cases simply coming to us with an idea and a thoughtful strategy / go-to-market. We also invite founders to diligence us during this process, and we’re always happy to provide Notation founder or LP references.
+The goal we set for ourselves is to get to an investment decision with the founders that we meet within one month after the initial introduction. Our team may meet separately with founders that we’re in process with or all as a group, and then we generally do a final partner meeting with the full team when appropriate. Our diligence during this period includes market research, reference calls, and any other available information that we can dig into. We try not to “over-diligence,” understanding that the founders we meet are often extraordinary early in the company building process, and in many cases simply coming to us with an idea and a thoughtful strategy or go-to-market. We also invite founders to diligence us during this process, and we’re always happy to provide Notation founder or LP references.
  
-If we choose to work with one another, we use preferred equity docs based on those found at [seriesseed.com](http://www.seriesseed.com/), or plain vanilla SAFEs, although we much prefer equity because we believe it creates cleaner cap tables and is best practice for startups. We aim for this final investment execution stage to get done within a few weeks after committing to a new investment and/or issuing a termsheet.
+If we choose to work with one another, we use preferred equity docs based on those found at [seriesseed.com](http://www.seriesseed.com/), or plain vanilla SAFEs, although we much prefer equity because we believe it creates cleaner cap tables and more clarity for investors and founders alike. We aim for this final investment execution stage to get done within a few weeks after committing to a new investment and issuing a termsheet.
 
 
 ## Our Investment Decision Framework
@@ -99,11 +103,11 @@ If we choose to work with one another, we use preferred equity docs based on tho
 
 ## How We Work
 
-During a project’s infancy, there are many ways in which we can add value to a founding team - This depends on the specific company, and we don’t believe in a one-size-fits-all manner of working with any given startup. That said, just like the founders we work with, Notation as a firm has resource constraints, so we do tend to focus on a few key areas where we believe we can add unique value:
+During a project’s infancy, there are many ways in which we can add value to a founding team - This depends on the specific company, and we don’t believe in a one-size-fits-all manner of working with any given startup. That said, just like the founders we work with, Notation as a firm has resource constraints, so we tend to focus on a few key areas where we believe we can add unique value:
 
 1. Setting Key Milestones – This may be the single most important thing we do. It’s our job to help the founders we partner with define their key milestones, particularly when it comes to raising additional capital. For example, if we invest in a marketplace company, it’s our responsibility to have a really good idea of what metrics like GMV and net revenue need to be in order to confidently raise a Seed or Series A round. Together, we use these key milestones and work backwards with founders to help them plan their product, team, and customer development roadmap. As a final note, we sometimes meet startups that may never need to raise another round of financing – we wish more startups would consider this path, and we welcome partnering with founders that would like to pursue this strategy.
 
-2. Team – Is there anything more important for a startup in the first year? We don’t think so. We encourage most teams we work with to stay as lean as possible while building the initial product, and rarely do product teams we work with grow beyond 5 people before institutional seed or Series A. We’ve helped build dozens of teams in the past decade, going back to our work at betaworks, and we view it as core to our firm to help founders find and recruit the initial management team. 
+2. Team – Is there anything more important for a startup in the first year? We don’t think so. We encourage most teams we work with to stay as lean as possible while building the initial product, and rarely do product teams we work with grow beyond 5-10 people before institutional seed or Series A. We’ve helped build dozens of teams in the past decade, going back to our work at betaworks, and we view it as core to our firm to help founders find and recruit the initial core team. 
 
 3. Product and Technical Reviews – We don’t pretend to understand any given market or customer set nearly as well as the founders we work with, but we can help with product roadmap planning and prioritization, as well as code reviews and technical diligence (and we do so often). 
 
@@ -128,14 +132,14 @@ We’ve found that one of the most effective ways to build community is simply b
 
 * Workshops - These are short tactical sessions that we typically host every couple months on topics like Mission/Vision/Values, hiring, diversity, among many others.
 * Dinners - We usually host one dinner per month for founders, limited partners, or other folks and functional roles in our network.
-* Community Events - We usually host one broader community event twice per year, which serves to bring our larger network together. These are meant to be both functional and fun.
+* Community Events - We host several larger community events per year, which serves to bring our larger network together. These are meant to be both functional and fun.
 
 
 ## Our Home
 
 We’re based in Brooklyn, NY. We started out working above Threes Brewing (thx guys!), and have now been in the Cobble Hill neighborhood for the past few years. We have a humble and quiet space that allows us to work efficiently, and occasionally roast our own Notation coffee. We hope you’ll visit us.
  
-Sometimes we invite Notation founders to work with us out of our space, but unfortunately we don’t have room for everyone, so it’s mostly when the timing lines up. Working out of Notation is never a requirement, in fact we usually discourage “co-working,” particularly at the large co-working spaces because more often than not they’re expensive and distracting. We believe one of the most important parts of building a startup is the culture the founders choose to create on day 0. So we encourage folks to be thoughtful about how they want to do that, and to do it their own way.
+Sometimes we invite Notation founders to work with us out of our space, but unfortunately we don’t have room for everyone, so it’s mostly when the timing lines up. Working out of Notation is never a requirement, in fact we usually discourage “co-working,” particularly at the large co-working spaces because more often than not they’re expensive and distracting. We believe one of the most important parts of building a startup is the culture that founders choose to create on day 0. So we encourage folks to be thoughtful about how they want to do that, and to do it their own way.
 
 
 ## Notation In The Wild
