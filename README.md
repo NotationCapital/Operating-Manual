@@ -5,7 +5,7 @@
   </a>
 
   <p align="center">
-    A first-check venture capital firm.
+    The first dedicated “pre-seed” fund in NYC. We work with product-obsessed teams in the trenches on day 0:00..
     <br>
     <a href="https://notation.vc/"><strong>View More on our Site »</strong></a>
     <br>
