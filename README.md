@@ -27,9 +27,9 @@
 ## Table of contents
 
 - [Why We Exist](#why-we-exist)
+- [Our Core Values](#our-core-values)
 - [Who We Are](#who-we-are)
 - [Notation in Practice](#notation-in-practice)
-- [Our Core Values](#our-core-values)
 - [Our Investment Process](#our-investment-process)
 - [Our Investment Decision Framework](#our-investment-decision-framework)
 - [How We Work](#how-we-work)
@@ -41,9 +41,20 @@
 
 ## Why We Exist
 
-__Our mission is to be the most helpful venture firm in the world for technical founding teams on day 0 of a new startup__. We believe all the glory to be had is in working with founders before what they’re building becomes obviously of value, even if it means investing in products and markets that (initially) seem fringe.
+__Our mission is to be the most helpful venture firm in the world for product-obsessed founding teams on day 0 of a new startup__. We believe all the glory to be had is in working with founders before what they’re building becomes obviously of value, even if it means investing in products and markets that (initially) seem fringe.
  
-We invest in 8-10 new projects per year that tend to be tech heavy, scalable software products, often based in NYC, but more selectively in Tier 2 ecosystems like Boston, Toronto, and LA. 
+We invest in 8 new startups per year that tend to be tech heavy, scalable software products, often based in NYC, but more selectively in Tier 2 ecosystems like Boston, Toronto, and LA. 
+
+
+## Our Core Values
+
+* To bring the deepest levels of respect, professionalism, and empathy to our work every day.
+* To always value diversity of thought, culture, gender, race, sexual orientation, and all our many differences.
+* To work extraordinarily hard for the founders we partner with, and to build a firm of lasting value in NYC.
+* To always try to do the right thing and to do the things we say we’re going to do.
+* To strive to be intellectually curious and optimistic about our future.
+* To value teamwork and collaboration amongst our partnership and with all of the founders in the Notation network.
+* To win by building great products, valuing our collective customers, and creating significant financial outcomes.
 
 
 ## Who We Are
@@ -55,8 +66,6 @@ Notation is a community of people dedicated to helping one another succeed. This
 [Nicholas Chirls](https://twitter.com/nchirls) - Focuses on product, growth, and capital raising. Previously Head of Seed Investing at betaworks and led product for several betaworks projects and previous startups.
 
 [Katherine Wu](https://twitter.com/katherineykwu) - Focuses on marketing, legal + regulatory, and business development. Katherine has a legal background with experience in business development and growth at Messari, a NYC seed-stage crypto startup.
-
-[Thomas Bailey](https://www.linkedin.com/in/thomas-bailey-b6827234/) - Leads cryptocurrency and blockchain investing at Notation. A former angel investor in blockchain projects, and previously built a large-scale crypto-mining facility.
 
 Through our slack channel, email lists, events, and other places where we build community, we encourage every person in our network to participate. Over the past few years, for example, this has led to a significant number of key hires, customers, and investor introductions. Notation is a diverse professional community that respects one another, but we also find ways to enjoy each other’s company, and try to have some fun along the way :-)
 
@@ -72,17 +81,6 @@ __What does a “first-check” investor actually mean?__ To us, it means (1) wo
 We occasionally consider companies that are further along, what most folks these days consider “institutional seed” (team built out, product in market, some early data), but this represents a smaller part of our practice (1-2 opportunistic investments per year). 
 
 If you think that we can be helpful given the way we work (more details below), please reach out to us! The best way to get in touch is either through someone in our network, or simply by sending us an email directly. We do our best to respond to every message we receive.
-
-
-## Our Core Values
-
-* To bring the deepest levels of respect, professionalism, and empathy to our work every day.
-* To work extraordinarily hard for the founders we partner with, and to build a firm of lasting value in NYC.
-* To always value diversity of thought, culture, gender, race, sexual orientation, and all our many differences.
-* To always try to do the right thing and to do the things we say we’re going to do.
-* To strive to be intellectually curious and optimistic about our future.
-* To value teamwork and collaboration amongst our partnership and with all of the founders in the Notation network.
-* To win by building great products, valuing our collective customers, and creating significant financial outcomes.
 
 
 ## Our Investment Process
