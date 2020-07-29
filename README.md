@@ -129,6 +129,9 @@ During a project’s infancy, there are many ways in which we can add value to a
 
 ## Notation Moonlight
 
+[Notation Moonlight](https://www.notion.so/Notation-Moonlight-6abe702823134feea252c3b62beec84b) is an 8-week program for future founders - talented engineers, product people, and builders - who are thinking about starting a company one day but haven’t yet gotten started. Perhaps you're already working on a specific project during off-hours, or still looking for co-founders, or haven't even yet settled on an idea, but you dream of leaving the 9-5 and building something of your own. Notation Moonlight is a community, network, and set of resources that rivals that of Silicon Valley, but right here in NYC. 
+
+The purpose of the program is to identify, encourage, and collaborate with future founders in NYC to help them better prepare for the journey of starting a company. Notation Moonlight is completely free, we don’t take equity — We think it's our responsibility to help level the playing field for the next generation of founders.
 
 ## Events
 
