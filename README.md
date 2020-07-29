@@ -50,7 +50,7 @@ We invest in about 8 new startups per year that tend to be tech heavy, scalable 
 ## Our Core Values
 
 * To bring the deepest levels of respect, professionalism, and empathy to our work every day.
-* To always value diversity of thought, culture, gender, race, sexual orientation, and all our many differences.
+* To always value inclusivity and diversity of culture, gender, race, sexual orientation, and all our many differences.
 * To work extraordinarily hard for the founders we partner with, and to build a firm of lasting value in NYC.
 * To always try to do the right thing and to do the things we say we’re going to do.
 * To strive to be intellectually curious and optimistic about our future.
