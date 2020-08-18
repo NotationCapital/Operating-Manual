@@ -60,7 +60,7 @@ We invest in about 8 new startups per year that tend to be tech heavy, scalable 
 
 ## Who We Are
 
-Notation is a community of people dedicated to helping one another succeed. This includes the founders of Notation portfolio companies, our advisors, LPs, and our broader network. We have three full-time members at the firm:
+Notation is a community of people dedicated to helping one another succeed. This includes the founders of Notation portfolio companies, our advisors, LPs, and our broader network. We have three full-time team members at the firm:
  
 [Alex Lines](https://twitter.com/alexlines) - Focuses on infrastructure, hard tech & product. Engineer experienced in distributed systems & scalability, building products and companies in NY for over 10 years.
  
@@ -68,18 +68,18 @@ Notation is a community of people dedicated to helping one another succeed. This
 
 [Katherine Wu](https://twitter.com/katherineykwu) - Focuses on marketing, legal + regulatory, and business development. Katherine has a legal background with experience in business development and growth at Messari, a NYC seed-stage crypto startup.
 
-Through our slack channel, email lists, events, and other places where we build community, we encourage every person in our network to participate. Over the past few years, for example, this has led to a significant number of key hires, customers, and investor introductions. Notation is a diverse professional community, but we also find ways to enjoy each other’s company, and try to have some fun along the way :-)
+Through our slack channel, email lists, events, and other places where we build community, we encourage every person in our network to participate. Over the past few years, for example, this has led to a significant number of key hires, customers, and investor introductions. Notation is a diverse professional community and building a startup is really hard, but we also try to have some fun along the way :-)
 
 Our core limited partners and advisors make up an [incredible group of people](https://notation.vc/who-we-are/), who are often happy to spend time with and help Notation portfolio companies. We’ve also found that the Notation founders regularly find ways to help one another without our direct involvement, which we love because it shows that the community we’re building stands on its own.
 
 
 ## Notation In Practice
 
-We've raised three funds for Notation. Notation I was an $8M proof of concept fund that we raised in 2015 and invested in 28 pre-seed stage companies. Notation II is a $28M fund that we’re currently investing. We recently raised $42M for Notation III, which we'll begin deploying in 2021. We decided to publish the fundraising decks for our first two funds, which can be found [here](https://www.slideshare.net/Notation/presentations), and will likely do for Notation III soon. All three funds include a combination of institutional and individual limited partners that are critical to the Notation community - [we’ve listed all of them publicly](https://notation.vc/who-we-are/), which we think is unique for a venture capital firm. __In our current iteration, our average check size is $600k and we prefer to lead or co-lead the first financing.__
+We've raised three funds for Notation. Notation I was an $8M proof of concept fund that we raised in 2015 and invested in 28 pre-seed stage companies. Notation II is a $28M fund that we’re currently investing. We recently raised $42M for Notation III, which we'll begin deploying in 2021. We decided to publish the fundraising decks for our first two funds, which can be found [here](https://www.slideshare.net/Notation/presentations), and plan to publish our deck for Notation III soon. All three funds include a combination of institutional and individual limited partners that are critical to the Notation community - [we’ve listed all of them publicly](https://notation.vc/who-we-are/), which we think is unique for a venture capital firm. __In our current iteration, our average check size is $600k and we prefer to lead or co-lead the first financing.__
  
 __What does a “pre-seed” investor actually mean?__ To us, it means (1) working with founders at the true beginning of a company, in many cases simply an idea or potential market that has become an obsession. We love side projects, and there’s very little we’d consider “too early” to be potentially investable. It also means (2) a disciplined approach to running an early stage experiment in order to learn whether or not it makes sense to continue onwards. This is why we prefer founding teams who choose to raise capital thoughtfully and appreciate resource constraints, rather than simply raising as much money as possible from whoever will pay the highest price.
  
-We occasionally consider companies that are further along, what most folks these days consider “institutional seed” (team built out, product in market, some early data), but this represents a smaller part of our practice (1-2 opportunistic investments per year). 
+We occasionally consider companies that are further along, what most folks these days consider “institutional seed” (team built out, product in market, some early data), but this represents a smaller part of our practice (1-2 investments per year). 
 
 If you think that we can be helpful given the way we work (more details below), please reach out to us! The best way to get in touch is either through someone in our network, or simply by sending us an email directly. We do our best to respond to every message we receive.
 
@@ -99,7 +99,7 @@ If we choose to work with one another, we use preferred equity docs based on the
  
 * Product - We look for products that are (1) Innovative product in their business model or process - That make us think differently about the problem and solution and (2) Can be defensible over time time via counter-positioning, scale economies, network economics, or switching costs.
 
-It's important to note that we do not require every item above to make an investment - In fact for any pre-seed stage startup that would be virtually impossible. These are simply questions we ask ourselves when considering an investment, and hope founders might be ready to answer, or at least have given some thought to. Our hope is that by sharing this framework and making it transparent that we might have more productive discussions when we meet and dig in together :-) 
+It's important to note that we don't require every item above to make an investment - In fact for any pre-seed stage startup that would be virtually impossible. These are simply questions we ask ourselves when considering an investment, and hope founders might be ready to answer, or at least have given some thought to. Our hope is that by sharing this framework and making it transparent that we might have more productive discussions when we meet and dig in together :-) 
 
 
 ## How We Work
