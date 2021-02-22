@@ -60,22 +60,20 @@ We invest in about 8 new startups per year that tend to be tech heavy, scalable 
 
 ## Who We Are
 
-Notation is a community of people dedicated to helping one another succeed. This includes the founders of Notation portfolio companies, our advisors, LPs, and our broader network. We have three full-time team members at the firm:
+Notation is a community of people dedicated to helping one another succeed. This includes the founders of Notation portfolio companies, our advisors, LPs, and our broader network. We have two full-time team partners at the firm:
  
 [Alex Lines](https://twitter.com/alexlines) - Focuses on infrastructure, hard tech & product. Engineer experienced in distributed systems & scalability, building products and companies in NY for over 10 years.
  
 [Nicholas Chirls](https://twitter.com/nchirls) - Focuses on product, growth, and capital raising. Previously Head of Seed Investing at betaworks and led product for several betaworks projects and previous startups.
 
-[Katherine Wu](https://twitter.com/katherineykwu) - Focuses on marketing, legal + regulatory, and business development. Katherine has a legal background with experience in business development and growth at Messari, a NYC seed-stage crypto startup.
-
 Through our slack channel, email lists, events, and other places where we build community, we encourage every person in our network to participate. Over the past few years, for example, this has led to a significant number of key hires, customers, and investor introductions. Notation is a diverse professional community and building a startup is really hard, but we also try to have some fun along the way :-)
 
-Our core limited partners and advisors make up an [incredible group of people](https://notation.vc/who-we-are/), who are often happy to spend time with and help Notation portfolio companies. We’ve also found that the Notation founders regularly find ways to help one another without our direct involvement, which we love because it shows that the community we’re building stands on its own.
+Our core limited partners and advisors make up an [incredible group of people](https://notation.vc/who-we-are/), who are often happy to spend time with and help Notation portfolio companies. Our LPs include both institutional investors, individual "Communinity LPs," and even some Notation founders. We’ve also found that the Notation founders regularly find ways to help one another without our direct involvement, which we love because it shows that the community we’re building stands on its own.
 
 
 ## Notation In Practice
 
-We've raised three funds for Notation. Notation I was an $8M proof of concept fund that we raised in 2015 and invested in 28 pre-seed stage companies. Notation II is a $28M fund that we’re currently investing. We recently raised $42M for Notation III, which we'll begin deploying in 2021. We decided to publish the fundraising decks for our first two funds, which can be found [here](https://www.slideshare.net/Notation/presentations), and plan to publish our deck for Notation III soon. All three funds include a combination of institutional and individual limited partners that are critical to the Notation community - [we’ve listed all of them publicly](https://notation.vc/who-we-are/), which we think is unique for a venture capital firm. __In our current iteration, our average check size is $600k and we prefer to lead or co-lead the first financing.__
+We've raised three funds for Notation. Notation I was an $7.9M proof of concept fund that we raised in 2015 and invested in 28 pre-seed stage companies. Notation II + Notation II-A (our LP community fund) is a $27.8M fund that we’re currently investing. We recently raised a total of $42M for Notation III and Notation III-A (our community LP fund), which we'll begin deploying in 2021. We decided to publish the fundraising decks for our first two funds, which can be found [here](https://www.slideshare.net/Notation/presentations), and plan to publish our deck for Notation III soon. All three funds include a combination of institutional and individual limited partners that are critical to the Notation community - [we’ve listed all of them publicly](https://notation.vc/who-we-are/), which we think is unique for a venture capital firm. __In our current iteration, our average check size is $600k and we prefer to lead or co-lead the first financing.__
  
 __What does a “pre-seed” investor actually mean?__ To us, it means (1) working with founders at the true beginning of a company, in many cases simply an idea or potential market that has become an obsession. We love side projects, and there’s very little we’d consider “too early” to be potentially investable. It also means (2) a disciplined approach to running an early stage experiment in order to learn whether or not it makes sense to continue onwards. This is why we prefer founding teams who choose to raise capital thoughtfully and appreciate resource constraints, rather than simply raising as much money as possible from whoever will pay the highest price.
  
@@ -114,7 +112,7 @@ During a project’s infancy, there are many ways in which we can add value to a
 
 4. Customer Development – In coordination with the broader Notation network, we want to be responsible for helping founders that we work with acquire early customers. This is particularly relevant for the b2b companies that we work with, but has applied to consumer facing companies as well. We get our hands dirty here, and although these forms of early sales don’t tend to be scalable over time, they’re important in getting the startups we work with to their first few dozen customers.
 
-5. Capital Raising – If we’ve done our job and helped founders to properly plan for their key milestones, they’re typically in a good position to raise a meaningful seed or Series A round. Leading up to a fundraise, we work closely with Notation founders to (1) help them craft their story and vision for the future, as well as their pitch deck, (2) target (and make introductions to) the right investors, and (3) run as efficient an investment process as possible.
+5. Capital Raising – If we’ve done our job and helped founders to properly plan for their key milestones, they’re typically in a good position to raise a meaningful seed or Series A round. Leading up to a fundraise, we work closely with Notation founders to (1) help them craft their story and vision for the future, as well as their pitch deck, (2) target (and make introductions to) the right investors, and (3) run an efficient fundraising process.
 
 6. Beyond (“The Call Before the Board”) – After a Notation portfolio company has raised a subsequent institutional round of financing, we generally take a step back. This is how we scale what we do at Notation, allowing us to work closely with new founders and companies. Because we don’t take board seats, we’re closely aligned with the founders that we work with throughout the lifecycle of their company, which often allows us to be the “call before the board.” Although communication over time becomes less frequent, we take this long-term role very seriously, and are grateful to the founders who have chosen to work with us and trust us with this responsibility.
 
@@ -132,6 +130,8 @@ During a project’s infancy, there are many ways in which we can add value to a
 [Notation Moonlight](https://www.notion.so/Notation-Moonlight-6abe702823134feea252c3b62beec84b) is an 8-week program for future founders - talented engineers, product people, and builders - who are thinking about starting a company one day but haven’t yet gotten started. Perhaps you're already working on a specific project during off-hours, or still looking for co-founders, or haven't even yet settled on an idea, but you dream of leaving the 9-5 and building something of your own. Notation Moonlight is a community, network, and set of resources that rivals that of Silicon Valley, but right here in NYC. 
 
 The purpose of the program is to identify, encourage, and collaborate with future founders in NYC to help them better prepare for the journey of starting a company. Notation Moonlight is completely free, we don’t take equity — We think it's our responsibility to help level the playing field for the next generation of founders.
+
+We ran the first Notation Moonlight cohort virtually in 2020 and will likely plan to run V2 in 2021, so please signup for our newsletter on our site if you're interested in participating.
 
 ## Events
 
