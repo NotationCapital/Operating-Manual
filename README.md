@@ -131,7 +131,7 @@ During a project’s infancy, there are many ways in which we can add value to a
 
 The purpose of the program is to identify, encourage, and collaborate with future founders in NYC to help them better prepare for the journey of starting a company. Notation Moonlight is completely free, we don’t take equity — We think it's our responsibility to help level the playing field for the next generation of founders.
 
-We ran the first Notation Moonlight cohort virtually in 2020 and will likely plan to run V2 in 2021, so please signup for our newsletter on our site if you're interested in participating.
+We ran the first Notation Moonlight cohort virtually in 2020 and will likely plan to run V2 in 2021, so please signup for our newsletter on our site or follow us on twitter if you're interested in participating.
 
 ## Events
 
