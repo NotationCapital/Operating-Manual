@@ -60,13 +60,13 @@ We invest in about 8 new startups per year that tend to be tech heavy, scalable 
 
 ## Who We Are
 
-Notation is a community of people dedicated to helping one another succeed. This includes the founders of Notation portfolio companies, our advisors, LPs, and our broader network. We have three full-time team partners at the firm:
+Notation is a community of people dedicated to helping one another succeed. This includes the founders of Notation portfolio companies, our advisors, LPs, and our broader network. We have three full-time team members at the firm:
  
-[Alex Lines](https://twitter.com/alexlines) - Focuses on infrastructure, hard tech & product. Engineer experienced in distributed systems & scalability, building products and companies in NY for over 10 years.
+[Alex Lines](https://twitter.com/alexlines) - Managing Partner - Focuses on infrastructure, hard tech & product. Engineer experienced in distributed systems & scalability, building products and companies in NY for over 10 years.
  
-[Nicholas Chirls](https://twitter.com/nchirls) - Focuses on product, growth, and capital raising. Previously Head of Seed Investing at betaworks and led product for several betaworks projects and previous startups.
+[Nicholas Chirls](https://twitter.com/nchirls) - Managing Partner - Focuses on product, growth, and capital raising. Previously Head of Seed Investing at betaworks and led product for several betaworks projects and previous startups.
 
-[Mackenzie Regent](https://twitter.com/kenzieregent) - Focuses on firm operations, platform & community, and investment support. Previously Director of Business Operations & Chief of Staff at Able.co and Strategy & Ops at Wework.
+[Mackenzie Regent](https://twitter.com/kenzieregent) - Chief of Staff - Focuses on firm operations, platform & community, and investment support. Previously Director of Business Operations & Chief of Staff at Able.co and Strategy & Ops at Wework.
 
 Through our slack channel, email lists, events, and other places where we build community, we encourage every person in our network to participate. Over the past few years, for example, this has led to a significant number of key hires, customers, and investor introductions. Notation is a diverse professional community and building a startup is really hard, but we also try to have some fun along the way :-)
 
