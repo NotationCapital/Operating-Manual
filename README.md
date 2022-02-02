@@ -5,7 +5,7 @@
   </a>
 
   <p align="center">
-    OG pre-seed + seed in Brooklyn, NY. We work with product-obsessed teams in the trenches on day 0:00.
+    OG pre-seed investing in Brooklyn, NY. We work with product-obsessed teams in the trenches on day 0:00.
     <br>
     <a href="https://notation.vc/"><strong>View More on our Site »</strong></a>
     <br>
