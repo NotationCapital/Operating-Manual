@@ -66,7 +66,7 @@ Notation is a community of people dedicated to helping one another succeed. This
  
 [Nicholas Chirls](https://twitter.com/nchirls) - Partner - Focuses on product, growth, and capital raising. Previously Head of Seed Investing at betaworks and led product for several betaworks projects and previous startups.
 
-[Mackenzie Regent](https://twitter.com/kenzieregent) - Head of Operations - Focuses on firm operations, platform & community, and investment support. Previously Director of Business Operations & Chief of Staff at Able.co and Strategy & Ops at Wework.
+[Mackenzie Regent](https://twitter.com/kenzieregent) - Principal - Focuses on operations, portfolio company support, and product. Previously Head of Business Operations & Chief of Staff at Able.co and Strategy & Ops at Wework.
 
 Through our slack channel, email lists, events, and other places where we build community, we encourage every person in our network to participate. Over the past few years, for example, this has led to a significant number of key hires, customers, and investor introductions. Notation is a diverse professional community and building a startup is really hard, but we also try to have some fun along the way :-)
 
